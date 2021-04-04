@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/virtual-piano/virtual-piano
+https://Svyatoslau.github.io/virtual-piano/virtual-piano
